@@ -1,6 +1,7 @@
 # Foreword
 
 This Project is an example implementation of MongoDB Atlas Cluster Autoscaling based on custom thresholds for the connection count on a cluster and is not considered as a production ready application.
+This is a private repository and is not officially supported by MongoDB
 
 The following Topics has to be taken into consideration: 
 
